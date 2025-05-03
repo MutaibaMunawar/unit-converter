@@ -64,5 +64,5 @@ if value:
     else:
         st.error("⚠️ Invalid conversion selected!")
 
-# Footer
+# footer
 st.markdown("<br><hr><p style='text-align: center;'>Built with ❤️ using Streamlit</p>", unsafe_allow_html=True)
